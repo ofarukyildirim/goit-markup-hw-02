@@ -1,0 +1,80 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 700;
+    font-style: bold;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+
+
+.h1-button:hover {
+    cursor: pointer;
+}
+
+.h1-button {
+    width: 169px;
+    height: 56px;
+    background-color: #4D5AE5;
+    color: white;
+    font-size: 16px;
+    font-weight: medium;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+.ilk-sec{
+    text-align: center;
+    background-color: #2E2F42;
+    color: white;
+    width: 1,440px;
+    height: 600px;
+    top: 72px;
+}
+
+ul{
+    list-style: none;
+}
+
+footer{
+    width: 1,440px;
+    height: 312px;
+    top: 2988px;
+    background-color: #2E2F42;
+}
+
+.alt-duzen{
+    color: #F4F4FD;
+    width: 264px;
+    height: 112px;
+    top: 3088px;
+    left: 156px;
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+
+.middle{
+    text-align: center;
+}
