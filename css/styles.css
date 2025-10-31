@@ -10,7 +10,7 @@ h1 {
     font-weight: 700;
     font-style: bold;
     font-size: 56px;
-    line-height: 1.5;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 }
 
@@ -18,14 +18,14 @@ h2 {
     font-weight: bold;
     font-size: 36px;
     letter-spacing: 0.02em;
-    line-height: 1.5;
+    line-height: 1.11;
 }
 
 h3 {
     font-weight: medium;
     font-size: 20px;
     letter-spacing: 0.02em;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 
 
@@ -79,7 +79,7 @@ footer{
     font-weight: 700;
     font-style: bold;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
@@ -89,7 +89,7 @@ footer{
     font-weight: 700;
     font-style: bold;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
@@ -99,7 +99,7 @@ footer{
     font-weight: 700;
     font-style: bold;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
